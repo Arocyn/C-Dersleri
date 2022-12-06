@@ -3,24 +3,24 @@
 int main(){
 
     /*
-    Bu iki işaret arasında satır satır yorum yapabiliriz.
+    Bu iki iÅŸaret arasÄ±nda satÄ±r satÄ±r yorum yapabiliriz.
     */
 
     printf("C ogrenmek cok guzel. \n");
 
     /*
 
-    "\" ile kaçış dizisi oluştururuz.
-    "\n" ile yeni satıra geçeriz.
+    "\" ile kaÃ§Ä±ÅŸ dizisi oluÅŸtururuz.
+    "\n" ile yeni satÄ±ra geÃ§eriz.
     "\t" yatay sekme.
-    "\\" ters slaşı metinde gösterir.
-    "\'" tek tırnağı metinde gösterir.
-    "\"" çift tırnağı metinde gösterir.
-    "\a" uyarı sesi çıkarır.
-    "\b" geri tuşu.
-    "\e" kaçış karakteri.
+    "\\" ters slaÅŸÄ± metinde gÃ¶sterir.
+    "\'" tek tÄ±rnaÄŸÄ± metinde gÃ¶sterir.
+    "\"" Ã§ift tÄ±rnaÄŸÄ± metinde gÃ¶sterir.
+    "\a" uyarÄ± sesi Ã§Ä±karÄ±r.
+    "\b" geri tuÅŸu.
+    "\e" kaÃ§Ä±ÅŸ karakteri.
     "\f" Form besleme sayfa sonu.
-    "\r" satır başı.
+    "\r" satÄ±r baÅŸÄ±.
     "\v" dikey sekme.
 
     */
@@ -31,7 +31,7 @@ int main(){
     printf("1\t2\t3\n4\t5\t6\n7\t8\t9\n\t0\n\n");
     printf("Bir sey demene gerek yok 10/10 bir dil oldugunu herkes bilir.\n");
 
-system("pause");
+    system("pause");
 
 return 0;
 }
