@@ -3,13 +3,13 @@
 int main(){
 
     /*
-        Aritmetik Operatörler
+        Aritmetik OperatÃ¶rler
         +   Toplama
-        -   Çýkarma
-        *   Çarpma
-        /   Bölme
+        -   Ã‡Ã½karma
+        *   Ã‡arpma
+        /   BÃ¶lme
         %   Mod Alma
-        ++  Arttýrma
+        ++  ArttÃ½rma
         --  Azaltma
     */
 
@@ -45,4 +45,6 @@ int main(){
     printf("%d\n", c);
 
     system("pause");
+  
+return 0;
 }
