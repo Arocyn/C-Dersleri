@@ -17,4 +17,5 @@ int main(){
     printf("Isteyecegini biliyorum o da %f \n", kxp);
 
     system("pause");
+return 0;
 }
