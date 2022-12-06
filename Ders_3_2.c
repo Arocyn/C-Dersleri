@@ -1,34 +1,34 @@
 #include <stdio.h>
-#include <math.h>       //Gerekli kütüphanemizi ekleriz
+#include <math.h>       //Gerekli kÃ¼tÃ¼phanemizi ekleriz
 
 int main(){
 
-double A = sqrt(16);    //Karekök alma
-printf("\n%lf", A);
-double B pow(2,3);      //Üs alma
-printf("\n%lf", B);
+  double A = sqrt(16);    //KarekÃ¶k alma
+  printf("\n%lf", A);
+  double B pow(2,3);      //Ãœs alma
+  printf("\n%lf", B);
 
-int C = round(3.25);    //Yakýn olduðu tarafa yuvarlama
-printf("\n%d", C);
-int D = ceil(3.01);     //Bir üstüne Yuvarlama
-printf("\n%d", D);
-int E = floor(3.99);    //Bir altýna yuvarlama
-printf("\n%d", E);
+  int C = round(3.25);    //YakÃ½n olduÃ°u tarafa yuvarlama
+  printf("\n%d", C);
+  int D = ceil(3.01);     //Bir Ã¼stÃ¼ne Yuvarlama
+  printf("\n%d", D);
+  int E = floor(3.99);    //Bir altÃ½na yuvarlama
+  printf("\n%d", E);
 
-double F fabs(-254);    //Mutlak deðer almak
-printf("\nlf", F);
+  double F fabs(-254);    //Mutlak deÃ°er almak
+  printf("\nlf", F);
 
-double G = log(5);      //Logoritma kullanmak
-printf("\n%ls", G);
+  double G = log(5);      //Logoritma kullanmak
+  printf("\n%ls", G);
 
-double H sin(45);       //Trigonometrikte sonuç radyan
-printf("\n %lf", H);
-double I = cos(45);
-printf("\n %lf", I);
-double J tan(45);
-printf("\n %lf", J);
+  double H sin(45);       //Trigonometrikte sonuÃ§ radyan
+  printf("\n %lf", H);
+  double I = cos(45);
+  printf("\n %lf", I);
+  double J tan(45);
+  printf("\n %lf", J);
 
-system("pause");
+  system("pause");
 
 return 0;
 }
