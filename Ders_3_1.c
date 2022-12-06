@@ -4,9 +4,9 @@ int main(){
 
     int a = 11;
     /*
-        İkili bir şekilde gösterdiğim işlemlerde hiç bir fark yok
-        Sadece kullanım kolaylığı ve gömülü sistemler için 2.sini
-        tercih etmenizin iyi olacağı kanısındayım.
+        Ãkili bir Å£ekilde gÃ¶sterdiÄ‘im iÅ£lemlerde hiÃ§ bir fark yok
+        Sadece kullanÃ½m kolaylÃ½Ä‘Ã½ ve gÃ¶mÃ¼lÃ¼ sistemler iÃ§in 2.sini
+        tercih etmenizin iyi olacaÄ‘Ã½ kanÃ½sÃ½ndayÃ½m.
     */
 
     a = a + 2;
@@ -29,4 +29,8 @@ int main(){
     printf("%d\n", a);
     a %= 5;
     printf("%d\n", a);
+    
+    system("pause");
+ 
+return 0;
 }
