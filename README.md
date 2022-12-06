@@ -19,5 +19,10 @@ const fonksiyonu ile değer sabitleme konusuna değindik.
 Ders_2_Ornek İçeriği
 Burada da öğrendiğimiz şeyleri ile yapacağımız en ileri uygulamalardan birini yaptık. Daha fazla komplike hale getirilerek daha da zor ve öğretici hale getirilebilir. Canım sıkıldığı bir vakit daha komplike versiyonunu da yazarım. 
 
+Ders_3 İçeriği 
+Bu derste aritmetik operatörlerinden bahsettim ve hepsinini örnek içinde kullandım. 
+
+Ders_3_1 İçeriği 
+Bu derste atama operatörlerinden bahsettim. 
 
 
