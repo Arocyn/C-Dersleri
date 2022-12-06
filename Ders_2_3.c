@@ -37,5 +37,6 @@ int main(){
     printf("%lld\n", l);                    // long long int - tam sayılar
     printf("%llu\n", m);                    // unsigned long long int - pozitif tam sayılar
 
-    return 0;
+    system("pause");
+return 0;
 }
