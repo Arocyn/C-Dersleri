@@ -2,12 +2,14 @@
 
 int main(){
 
-    // constant = Derleyiciye belirli bir değişkenin değerinin değiştirilmemesi gerektiğinin bildirmesini sağlar
+    // constant = Derleyiciye belirli bir deÄŸiÅŸkenin deÄŸerinin deÄŸiÅŸtirilmemesi gerektiÄŸinin bildirmesini saÄŸlar
 
     const float pi = 3.141519;
 
     printf("%f",pi);
 
-    return 0;
+    system("pause");
+    
+return 0;
 
 }
