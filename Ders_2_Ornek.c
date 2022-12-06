@@ -10,5 +10,7 @@ int main(){
     printf("Merhaba %s , hosgeldiniz.\n", isim);
 
     system("pause");
+    
+return 0;
 
 }
