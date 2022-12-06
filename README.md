@@ -9,3 +9,5 @@ Kullanıcıdan basit bir şekilde sayı girmesini isteyerek bu sayıyı ekrana y
 
 Ders_2_2 İçeriği 
 Biraz daha komplex C dilindeki veri türlerinin kullanılmasını göstermek adına yaptığım örnek. 
+
+Ders_2_3 İçeriği Bu kısımda ise internetten hazır olarak bulduğum açıklayıcı bir kod örneğini ekledim her şeyden örnek var. 
