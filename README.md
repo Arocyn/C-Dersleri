@@ -25,4 +25,9 @@ Bu derste aritmetik operatörlerinden bahsettim ve hepsinini örnek içinde kull
 Ders_3_1 İçeriği 
 Bu derste atama operatörlerinden bahsettim. 
 
+Ders_3_2 İçeriği 
+Matematiksel fonksiyonlardan bahsettim. 
+
+ÖDEV_1_2
+Bu kısma kadar öğrendiğimiz şeyler ile +Çember Çevre ve Alan bulan bir uygulama ve de üçgenin hipotenüsünü bulan uygulama yazmanızı bekliyorum.
 
