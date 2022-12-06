@@ -3,24 +3,24 @@
 
 int main(){
 
-    int x=0;    /* Tanımla+Değer Verme */
+    int x=0;    /* TanÄ±mla+DeÄŸer Verme */
 
-    int y;      /*Tanımlama     */
-    y=0;        /*Değer Verme   */
+    int y;      /*TanÄ±mlama     */
+    y=0;        /*DeÄŸer Verme   */
 
     /*
-        Burada değişkenimizi tanımladık
-        Veri Tipleri kullaımı >> veri türü isim; >> isim=değer
-        int     Tam sayılar için kullanılır.
-        fload   Virgüllü sayılar için kullanılır.
-        char    Karakterler için kullanılır.
+        Burada deÄŸiÅŸkenimizi tanÄ±mladÄ±k
+        Veri Tipleri kullaÄ±mÄ± >> veri tÃ¼rÃ¼ isim; >> isim=deÄŸer
+        int     Tam sayÄ±lar iÃ§in kullanÄ±lÄ±r.
+        fload   VirgÃ¼llÃ¼ sayÄ±lar iÃ§in kullanÄ±lÄ±r.
+        char    Karakterler iÃ§in kullanÄ±lÄ±r.
 
     */
 
     printf("Bir sayi giriniz.");
-    scanf("%i", &x);            /* scanf ile kullanıcıdan girdi alırız. */
+    scanf("%i", &x);            /* scanf ile kullanÄ±cÄ±dan girdi alÄ±rÄ±z. */
     printf("\n Girdiginiz sayi= %i \n", x);
 
     system("pause");
-    return 0;
+return 0;
 }
