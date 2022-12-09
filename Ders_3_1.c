@@ -4,9 +4,9 @@ int main(){
 
     int a = 11;
     /*
-        Ýkili bir ţekilde gösterdiđim iţlemlerde hiç bir fark yok
-        Sadece kullaným kolaylýđý ve gömülü sistemler için 2.sini
-        tercih etmenizin iyi olacađý kanýsýndayým.
+        İkili bir şekilde gösterdiğim işlemlerde hiç bir fark yok
+        Sadece kullanım kolaylığı ve gömülü sistemler için 2.sini
+        tercih etmenizin iyi olacağının kanısındayım.
     */
 
     a = a + 2;
