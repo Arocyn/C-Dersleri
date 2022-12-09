@@ -5,11 +5,11 @@ int main(){
     /*
         Aritmetik Operatörler
         +   Toplama
-        -   Çýkarma
+        -   Çıkarma
         *   Çarpma
         /   Bölme
         %   Mod Alma
-        ++  Arttýrma
+        ++  Arttırma
         --  Azaltma
     */
 
