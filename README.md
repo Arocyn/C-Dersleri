@@ -1,5 +1,5 @@
 # C-Dersleri
-C için yeni başlayanlara fikir vermesi için oluşturduğum ders dosyalarının ilk parçası. Daha fazlası için www.arocynileprogramlama.blogspot.com 
+C için yeni başlayanlara fikir vermesi için oluşturduğum ders dosyalarının ilk parçası. Daha fazlası için www.arocynileprogramlama.blogspot.com veya https://arocyn.medium.com/
 
 Ders_1 İçeriği 
 Basit bir ekrana yazı yazdırma ve \n , \t , \v gibi kaçış dizilerinin kullanılması.
